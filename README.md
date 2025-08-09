@@ -17,7 +17,7 @@ A beautiful, AI-assisted blogging platform where you can write, create images, a
   - Quill WYSIWYG editor for seamless editing
   - HTMX for dynamic, server-side updates without page reloads
 - **Search**
-  - Used `all-MiniLM-L6-v2` embeddings + cosine similarity for ranked vector search
+  - Used `all-MiniLM-L6-v2` embeddings + cosine similarity for ranked vector search (Funationality was removed)
 - **Smooth User Experience**
   - No full page reloads, real-time AI assistance, and intuitive design
 
