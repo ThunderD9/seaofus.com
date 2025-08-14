@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/c632b4f1-1db0-4294-b04a-14af289d10c2" width="50" height="50" align="middle" />   Seaofus.com
+## <img src="https://github.com/user-attachments/assets/c632b4f1-1db0-4294-b04a-14af289d10c2" width="50" height="50" align="middle" />   Seaofus.com
 
 A beautiful, AI-assisted blogging platform where you can write, create images, and connect — built to feel like the early internet, with modern tech like Django, HTMX, and FrankenUI.
 
